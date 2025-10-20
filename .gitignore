@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Dependencias
+node_modules/
+
+# Archivos de lock (no se suben a Vercel)
+package-lock.json
+
+# Archivos de build
+dist/
+
+# Archivos del entorno local
+.env
+.env.local
