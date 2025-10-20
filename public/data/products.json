@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Orgullo y prejuicio",
+    "price": 8900,
+    "category": "romance",
+    "description": "Novela de Jane Austen sobre el amor, el orgullo y las diferencias sociales en la Inglaterra del siglo XIX.",
+    "imageUrl": "/images/orgullo-prejuicio.jpg"
+  },
+  {
+    "id": "2",
+    "name": "1984",
+    "price": 9500,
+    "category": "distopía",
+    "description": "Obra de George Orwell que retrata un mundo totalitario donde el Gran Hermano todo lo vigila.",
+    "imageUrl": "/images/1984.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Moby Dick",
+    "price": 10200,
+    "category": "aventura",
+    "description": "La clásica historia de Herman Melville sobre la obsesión del capitán Ahab por cazar una gran ballena blanca.",
+    "imageUrl": "/images/moby-dick.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Crimen y castigo",
+    "price": 9800,
+    "category": "drama",
+    "description": "Fiódor Dostoievski explora la moralidad, la culpa y la redención a través del atormentado Raskólnikov.",
+    "imageUrl": "/images/crimen-castigo.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Don Quijote de la Mancha",
+    "price": 11200,
+    "category": "clásico",
+    "description": "La obra maestra de Miguel de Cervantes que narra las desventuras del ingenioso hidalgo y su fiel escudero Sancho Panza.",
+    "imageUrl": "/images/don-quijote.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Cumbres borrascosas",
+    "price": 8700,
+    "category": "romance",
+    "description": "Emily Brontë presenta una historia de amor y venganza en los páramos de Yorkshire.",
+    "imageUrl": "/images/cumbres-borrascosas.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Los miserables",
+    "price": 10800,
+    "category": "drama",
+    "description": "Víctor Hugo relata la lucha de Jean Valjean por la redención en una sociedad injusta.",
+    "imageUrl": "/images/los-miserables.jpg"
+  },
+  {
+    "id": "8",
+    "name": "El retrato de Dorian Gray",
+    "price": 9100,
+    "category": "fantasía",
+    "description": "Oscar Wilde narra la decadencia moral de un joven que permanece eternamente joven mientras su retrato envejece.",
+    "imageUrl": "/images/dorian-gray.jpg"
+  },
+  {
+    "id": "9",
+    "name": "La metamorfosis",
+    "price": 7500,
+    "category": "ficción",
+    "description": "Franz Kafka cuenta la historia de Gregor Samsa, un hombre que un día despierta convertido en insecto.",
+    "imageUrl": "/images/metamorfosis.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Ana Karenina",
+    "price": 9700,
+    "category": "romance",
+    "description": "León Tolstói examina la pasión y las normas sociales a través del trágico destino de Ana Karenina.",
+    "imageUrl": "/images/ana-karenina.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Fahrenheit 451",
+    "price": 9300,
+    "category": "distopía",
+    "description": "Ray Bradbury imagina un futuro donde los libros están prohibidos y los 'bomberos' queman cualquier libro que encuentran.",
+    "imageUrl": "/images/fahrenheit-451.jpg"
+  },
+  {
+    "id": "12",
+    "name": "La isla del tesoro",
+    "price": 8600,
+    "category": "aventura",
+    "description": "Robert Louis Stevenson narra las aventuras de Jim Hawkins en busca de un tesoro pirata.",
+    "imageUrl": "/images/isla-tesoro.jpg"
+  }
+]
