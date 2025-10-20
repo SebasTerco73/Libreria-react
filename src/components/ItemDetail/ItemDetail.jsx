@@ -5,7 +5,8 @@ export const ItemDetail = ({detail}) => {
     const {addItem} = useCartContext();
     return (
         <Item {...detail}>
-            <p>Descripción: {detail.description}</p>
+            <p>{detail.description}</p>
+            <p>Precio: ${detail.price}</p>
             <button onClick={() => {
                 addItem(detail);
             }}>Agregar al carrito</button>

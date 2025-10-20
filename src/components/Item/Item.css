@@ -40,7 +40,7 @@ article p {
 
 /* ---------- BOTÓN ---------- */
 article button {
-  margin-top: auto;
+  margin-top: 10px;
   padding: 8px 16px;
   border: none;
   background-color: #007bff;
